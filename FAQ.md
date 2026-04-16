@@ -12,3 +12,4 @@ Try to run the command in the console `java -jar ...` and remove `-Dlogging.patt
 44444
 55555
 66666
+77777
